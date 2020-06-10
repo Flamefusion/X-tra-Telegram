@@ -13,7 +13,6 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`Currently Alive, my peru master!` **ψ(｀∇´)ψ**\n\n"
                      "`Telethon version: 6.9.0\nPython: 3.7.3\n`"
-                     # Don't change this else you a TikTok loser, Son of Jinping. Add your own.
-                     "`Bot created by:` [SnapDragon](tg://user?id=719877937), @anubisxx\n"
+                     "`Bot created by:` [Flamefusion](tg://user?id=587229944), @Flamefusion\n"
                      f"`My peru owner`: {DEFAULTUSER}\n\n"
-                     "https://github.com/Dark-Princ3/X-tra-Telegram")
+                     "https://github.com/Flamefusion/X-tra-Telegram")
